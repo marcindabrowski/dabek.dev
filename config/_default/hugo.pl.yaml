@@ -1,0 +1,12 @@
+weight: 2
+# copyright description used only for seo schema
+copyright: O ile nie jest to stwierdzone inaczej, wszystkie materiały na stronie są dostępne na licencji <a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/deed.pl" target="_blank">Creative Commons Użycie niekomercyjne 4.0</a>.
+# whether to include Chinese/Japanese/Korean
+hasCJKLanguage: false
+# language code
+languageCode: pl
+# language name
+languageName: polski
+# default amount of posts in each pages
+paginate: 12
+title: TechBlog Dąbka

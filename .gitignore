@@ -19,3 +19,38 @@
 
 # Go workspace file
 go.work
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### VS Code ###
+.vscode/
+
+# Hugo default output directory
+public/
+/exampleSite/resources/
+
+node_modules/
+build/
+gen_/
+
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# OSX
+.DS_Store
+
+# Linux
+.directory
+
+# Hugo
+.hugo_build.lock
+jsconfig.json
+/resources/_gen/

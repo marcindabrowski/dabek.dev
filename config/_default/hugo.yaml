@@ -1,0 +1,13 @@
+baseURL: https://marcindabrowski.github.io/dabek.dev
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+title: Dąbek's TechBlog
+
+theme: DoIt
+
+# whether to use emoji code
+enableEmoji: true
+# whether to use git commit log
+enableGitInfo: true
+# whether to use robots.txt
+enableRobotsTXT: true

@@ -1,0 +1,12 @@
+weight: 1
+# copyright description used only for seo schema
+copyright: Unless otherwise stated, all material on the website is available under <a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/deed.en" target="_blank">Creative Commons Attribution-NonCommercial 4.0 International</a> License.
+# whether to include Chinese/Japanese/Korean
+hasCJKLanguage: false
+# language code
+languageCode: en
+# language name
+languageName: English
+# default amount of posts in each pages
+paginate: 12
+title: Dąbek's TechBlog

@@ -1,0 +1,31 @@
+# Multi-lingual mode config
+# There are different options to translate files
+# See https://gohugo.io/content-management/multilingual/#translation-by-filename
+# And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
+disabled: false
+languageCode: pl
+languageDirection: ltr
+languageName: polski
+params:
+  footer:
+    # Hosted on (HTML format is supported)
+    hostedOn: <a title="Github Pages" href="https://docs.github.com/en/pages/" target="_blank" rel="noopener noreffer">GitHub Pages</a>
+    # license info (HTML format is supported)
+    license: O ile nie jest to stwierdzone inaczej, wszystkie materiały na stronie są dostępne na licencji <a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/deed.pl" target="_blank">Uznanie autorstwa-Użycie niekomercyjne 4.0 Międzynarodowe</a>.
+  home:
+    posts:
+      enable: true
+      # special amount of posts in each home posts page
+      paginate: 10
+    profile:
+      # disclaimer (HTML format is supported)
+      disclaimer: A random birb
+      # whether to show social links
+      social: true
+      # subtitle shown in home page
+      subtitle: We are shaped by fate just as we shape it.
+      # title shown in home page (HTML format is supported)
+      title: Marcin Dąbrowski
+      # whether to use typeit animation for subtitle
+      typeit: true
+weight: 2
